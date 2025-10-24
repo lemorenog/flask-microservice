@@ -31,3 +31,5 @@ try:
 except Exception as e:
     print("No se pudo registrar el historial:", e)
 ```
+
+**Hecho por: Luis Estiven Moreno Gutierrez**
